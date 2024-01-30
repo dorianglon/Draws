@@ -1,4 +1,4 @@
-MAIN_FOLDER = '/Users/dorianglon/Desktop/Project/'
+MAIN_FOLDER = ''
 DATA = MAIN_FOLDER + 'data/'
 OTHER_DATA_SOURCE = 'https://www.football-data.co.uk'
 
